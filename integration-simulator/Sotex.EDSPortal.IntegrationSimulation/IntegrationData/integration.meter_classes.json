@@ -1,0 +1,13 @@
+[
+  { "code": "ДБ", "value": "директно бројило", "discriminator": "MeterClass" },
+  {
+    "code": "ДМГ",
+    "value": "директна мерна група",
+    "discriminator": "MeterClass"
+  },
+  {
+    "code": "ИМГ",
+    "value": "полуиндиректна мерна група",
+    "discriminator": "MeterClass"
+  }
+]

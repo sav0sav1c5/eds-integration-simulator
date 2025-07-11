@@ -1,0 +1,11 @@
+[
+  { "value": "магацин", "discriminator": "BuildingPurposeValue" },
+  { "value": "наводњавање", "discriminator": "BuildingPurposeValue" },
+  {
+    "value": "пословни простор",
+    "discriminator": "BuildingPurposeValue"
+  },
+  { "value": "радионица", "discriminator": "BuildingPurposeValue" },
+  { "value": "склониште", "discriminator": "BuildingPurposeValue" },
+  { "value": "становање", "discriminator": "BuildingPurposeValue" }
+]

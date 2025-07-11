@@ -1,0 +1,4 @@
+[
+  { "value": "до 43,5 kW", "discriminator": "PowerLimitValue" },
+  { "value": "преко 43,5 kW", "discriminator": "PowerLimitValue" }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "code": "individual",
+    "value": "индивидуални",
+    "discriminator": "ConnectionType"
+  },
+  { "code": "special", "value": "посебан", "discriminator": "ConnectionType" },
+  { "code": "standard", "value": "типски", "discriminator": "ConnectionType" }
+]

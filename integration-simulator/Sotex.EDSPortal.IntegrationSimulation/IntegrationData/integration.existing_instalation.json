@@ -1,0 +1,17 @@
+[
+  { "value": "измена услова", "discriminator": "ExistingInstalationValue" },
+  { "value": "повећање снаге", "discriminator": "ExistingInstalationValue" },
+  {
+    "value": "прелазак монофазне на трофазну",
+    "discriminator": "ExistingInstalationValue"
+  },
+  {
+    "value": "раздвајање инсталације",
+    "discriminator": "ExistingInstalationValue"
+  },
+  { "value": "смањење снаге", "discriminator": "ExistingInstalationValue" },
+  {
+    "value": "спајање инсталације",
+    "discriminator": "ExistingInstalationValue"
+  }
+]

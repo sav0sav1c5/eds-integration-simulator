@@ -1,0 +1,4 @@
+[
+  { "code": "NN", "value": "0.4 kV", "discriminator": "Voltage" },
+  { "code": "SN", "value": "10/20 kV", "discriminator": "Voltage" }
+]

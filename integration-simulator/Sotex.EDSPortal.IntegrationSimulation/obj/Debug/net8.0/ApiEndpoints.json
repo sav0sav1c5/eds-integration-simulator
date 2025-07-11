@@ -1,0 +1,474 @@
+[
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.BlobController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/Blob/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filePath",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.BlobController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Blob/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Sotex.EDSPortal.IntegrationSimulation.SharedDTOs.ResponsePackage\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetAttachmentTypes",
+    "RelativePath": "api/Integration/attachment-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetBuildingUnitPurpose",
+    "RelativePath": "api/Integration/build-unit-purpose",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetBuildingPurpose",
+    "RelativePath": "api/Integration/building-purpose",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetBuildingType",
+    "RelativePath": "api/Integration/building-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetCadastalMunicipalities",
+    "RelativePath": "api/Integration/cadastal-municipalities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetConnectionDurations",
+    "RelativePath": "api/Integration/connection-durations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetConnectionPowers",
+    "RelativePath": "api/Integration/connection-powers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetConnectionTypes",
+    "RelativePath": "api/Integration/connection-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetConstructionTypes",
+    "RelativePath": "api/Integration/construction-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetExistingInstalation",
+    "RelativePath": "api/Integration/existing-instalation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetHeatingTypes",
+    "RelativePath": "api/Integration/heading-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetMeterClasses",
+    "RelativePath": "api/Integration/meter-classes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetMeterTypes",
+    "RelativePath": "api/Integration/meter-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetMunicipalities",
+    "RelativePath": "api/Integration/municipalities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetPowerLimit",
+    "RelativePath": "api/Integration/power-limit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetSettlements",
+    "RelativePath": "api/Integration/settlements",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetStreets",
+    "RelativePath": "api/Integration/streets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetTariffNumbers",
+    "RelativePath": "api/Integration/tariff-numbers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.IntegrationController",
+    "Method": "GetVoltages",
+    "RelativePath": "api/Integration/voltages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "Index",
+    "RelativePath": "api/RequestStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sortField",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortOrder",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "requestRefFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "firstNameFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "lastNameFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "emailFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "phoneFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "arrivalFromDateFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "arrivalToDateFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "FindRequestStatus",
+    "RelativePath": "api/RequestStatus",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "externalId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Sotex.EDSPortal.IntegrationSimulation.SharedDTOs.ExternalStatusUpdateDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/RequestStatus/Download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filePath",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/RequestStatus/Download",
+    "HttpMethod": "HEAD",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filePath",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "ExtendRequest",
+    "RelativePath": "api/RequestStatus/extendRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Sotex.EDSPortal.IntegrationSimulation.SharedDTOs.ExtendStatusUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "GetDetails",
+    "RelativePath": "api/RequestStatus/GetDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "GetSpecificRequestApproved",
+    "RelativePath": "api/RequestStatus/getSpecificApproved",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "externalId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "GetSpecificRequestInProgress",
+    "RelativePath": "api/RequestStatus/getSpecificInProgress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "externalId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "GetSpecificRequestNeedExtension",
+    "RelativePath": "api/RequestStatus/getSpecificNeedExtension",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "externalId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "GetStatusUpdates",
+    "RelativePath": "api/RequestStatus/getStatusUpdates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "statusUpdateRef",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "SendRequest",
+    "RelativePath": "api/RequestStatus/sendRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Sotex.EDSPortal.Shared.DTOs.IntegrationRequestV2Dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sotex.EDSPortal.IntegrationSimulation.Controllers.RequestStatusController",
+    "Method": "UploadFile",
+    "RelativePath": "api/RequestStatus/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

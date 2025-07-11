@@ -1,0 +1,22 @@
+[
+  { "value": "-", "discriminator": "BuildingUnitPurposeValue" },
+  { "value": "гаража", "discriminator": "BuildingUnitPurposeValue" },
+  {
+    "value": "заједничка потрошња",
+    "discriminator": "BuildingUnitPurposeValue"
+  },
+  {
+    "value": "индустријски погон",
+    "discriminator": "BuildingUnitPurposeValue"
+  },
+  { "value": "локал", "discriminator": "BuildingUnitPurposeValue" },
+  { "value": "пословни простор", "discriminator": "BuildingUnitPurposeValue" },
+  { "value": "радионица", "discriminator": "BuildingUnitPurposeValue" },
+  { "value": "склониште", "discriminator": "BuildingUnitPurposeValue" },
+  { "value": "стан", "discriminator": "BuildingUnitPurposeValue" },
+  {
+    "value": "топлотна подстаница",
+    "discriminator": "BuildingUnitPurposeValue"
+  },
+  { "value": "хидрант", "discriminator": "BuildingUnitPurposeValue" }
+]

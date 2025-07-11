@@ -1,0 +1,10 @@
+[
+  { "code": "trajni", "value": "трајни", "isTemporary": false },
+  { "code": "građevinski", "value": "грађевински", "isTemporary": true },
+  {
+    "code": "mobilni objekat",
+    "value": "мобилни објекат",
+    "isTemporary": true
+  },
+  { "code": "privremen", "value": "привремени", "isTemporary": true }
+]

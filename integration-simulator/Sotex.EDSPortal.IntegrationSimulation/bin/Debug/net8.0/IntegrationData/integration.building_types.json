@@ -1,0 +1,13 @@
+[
+  { "value": "викендица", "discriminator": "BuildingTypeValue" },
+  { "value": "гаража", "discriminator": "BuildingTypeValue" },
+  { "value": "градилиште", "discriminator": "BuildingTypeValue" },
+  { "value": "киоск", "discriminator": "BuildingTypeValue" },
+  { "value": "локал", "discriminator": "BuildingTypeValue" },
+  { "value": "пословни", "discriminator": "BuildingTypeValue" },
+  { "value": "прикључак за наводњавање", "discriminator": "BuildingTypeValue" },
+  { "value": "производни", "discriminator": "BuildingTypeValue" },
+  { "value": "склониште", "discriminator": "BuildingTypeValue" },
+  { "value": "стамбени", "discriminator": "BuildingTypeValue" },
+  { "value": "хидрант", "discriminator": "BuildingTypeValue" }
+]

@@ -1,0 +1,6 @@
+@Sotex.EDSPortal.IntegrationSimulation_HostAddress = http://localhost:5105
+
+GET {{Sotex.EDSPortal.IntegrationSimulation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

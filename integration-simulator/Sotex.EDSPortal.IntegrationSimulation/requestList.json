@@ -1,0 +1,767 @@
+[
+    {
+        "RequestRef": "55f4b944-d5e3-4b91-ab12-c89a4c6827f5",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "021-555-123",
+                "064-1234-567"
+            ],
+            "Emails": [
+                "info@kompanija.rs",
+                "podrska@kompanija.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Marko",
+            "PersonLastName": "Markovic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 729884,
+                "StreetId": 729884000026,
+                "Street": "\u041D\u0418\u041A\u041E\u041B\u0415 \u0422\u0415\u0421\u041B\u0415",
+                "HouseNo": "23",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0433\u0440\u0430\u0434\u0438\u043B\u0438\u0448\u0442\u0435"
+            ],
+            "HeatingType": [
+                "\u0442\u043E\u043F\u043B\u043E\u0432\u043E\u0434\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C"
+            ],
+            "BuildingPurpose": [
+                "\u0440\u0430\u0434\u0438\u043E\u043D\u0438\u0446\u0430"
+            ],
+            "IsExistingInstallation": true,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 730351,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0410 \u0412\u0410\u0420\u041E\u0428"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [
+                "\u043F\u043E\u0432\u0435\u045B\u0430\u045A\u0435 \u0441\u043D\u0430\u0433\u0435"
+            ],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "",
+            "TariffNumberId": "",
+            "PowerCode": "TB16",
+            "PowerRequested": 11.04,
+            "FuseCurrent": 16,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "08e106e3-d73c-4517-8e41-6084cbd68f0c",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "021-444-333",
+                "063-333-444"
+            ],
+            "Emails": [
+                "kontakt@bizniscentar.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Petar",
+            "PersonLastName": "Petrovic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "d3a86c92-d2a7-4699-a075-1c9ad0887000",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "065-9514-423",
+                "021-288-600"
+            ],
+            "Emails": [
+                "kontakt@mikromarket.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Dragoljub",
+            "PersonLastName": "Radic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "216b95be-36c0-44c2-bdbb-4dfa1258094f",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "063-889-324"
+            ],
+            "Emails": [
+                "minevena@gmail.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Nevena",
+            "PersonLastName": "Micic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "cf8412ff-94e6-4f3f-8287-46871d569510",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "060-123-765"
+            ],
+            "Emails": [
+                "marko@business.com"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Dejan",
+            "PersonLastName": "Milovanovic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "eccf6aeb-b106-4b20-951a-4009f455bf6b",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "064-2850-206",
+                "021-076-444",
+                "061-2732-502"
+            ],
+            "Emails": [
+                "markec@yahoo.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Marko",
+            "PersonLastName": "Ristic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "9263921e-6494-4762-8658-4ff45f4866ce",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "061-376-222",
+                "065-8934-433"
+            ],
+            "Emails": [
+                "micakoprivica@icloud.rs"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Milica",
+            "PersonLastName": "Koprivic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    },
+    {
+        "RequestRef": "413da000-3296-4917-bd07-5ec642fb901b",
+        "OfficialId": -1,
+        "IsTaxPaid": false,
+        "TaxAmount": -1,
+        "Client": {
+            "IsCompany": false,
+            "ClientAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "16",
+                "ZipCode": 0
+            },
+            "Phones": [
+                "063-123-456"
+            ],
+            "Emails": [
+                "dragan@business.com"
+            ],
+            "LegalName": "",
+            "RepresentativeFirstName": "",
+            "RepresentativeLastName": "",
+            "RegNumber": "",
+            "TaxNumber": "",
+            "Account": "",
+            "PersonFirstName": "Dragan",
+            "PersonLastName": "Misic",
+            "PersonRegNumber": "2154123412344"
+        },
+        "Building": {
+            "BuildingAddress": {
+                "SettlementId": 802824,
+                "StreetId": 802824000594,
+                "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                "HouseNo": "124",
+                "ZipCode": 0
+            },
+            "LocationDescription": "",
+            "BuildingType": [
+                "\u0415\u043B\u0435\u043A\u0442\u0440\u0430\u043D\u0430 \u043D\u0430 \u0431\u0438\u043E\u043C\u0430\u0441\u0443"
+            ],
+            "HeatingType": [],
+            "BuildingPurpose": [],
+            "IsExistingInstallation": false,
+            "DeadlineMonth": -1,
+            "DeadlineYear": -1,
+            "IsConnected": false,
+            "ConnectionCodes": [],
+            "CadastralParcels": [
+                {
+                    "CadastralMunicipalityId": 802166,
+                    "CadastralParcelCode": "\u041D\u041E\u0412\u0418 \u0421\u0410\u0414 II"
+                }
+            ],
+            "PreviousApprovals": []
+        },
+        "ContactPersons": [
+            {
+                "FirstName": "Test",
+                "LastName": "Testi\u0107",
+                "ContactAddress": {
+                    "SettlementId": 802824,
+                    "StreetId": 802824000594,
+                    "Street": "\u0422\u0415\u041E\u0414\u041E\u0420\u0410 \u041F\u0410\u0412\u041B\u041E\u0412\u0418\u040B\u0410",
+                    "HouseNo": "16",
+                    "ZipCode": 0
+                },
+                "Phones": [],
+                "Emails": [],
+                "IsDefault": true
+            }
+        ],
+        "Subject": {
+            "IsGroupConnection": false,
+            "ExistingInstalations": [],
+            "VoltageId": "",
+            "ConnectionDurationId": "gra\u0111evinski",
+            "Duration": {
+                "StartDate": "0001-01-01T00:00:00",
+                "EndDate": "0001-01-01T00:00:00"
+            },
+            "TechnologyDescription": "",
+            "IsResigningPrevious": false,
+            "ResignPreviousNumber": null,
+            "ResignPreviousDate": null,
+            "MeterTypeId": "\u041C\u0411",
+            "TariffNumberId": "1",
+            "PowerCode": "",
+            "PowerRequested": -1,
+            "FuseCurrent": null,
+            "RequestConnectionSpecifications": []
+        }
+    }
+]

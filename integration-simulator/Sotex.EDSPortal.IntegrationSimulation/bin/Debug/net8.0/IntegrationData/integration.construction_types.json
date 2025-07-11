@@ -1,0 +1,5 @@
+[
+  { "value": "грађење", "discriminator": "ConstructionTypeValue" },
+  { "value": "доградња", "discriminator": "ConstructionTypeValue" },
+  { "value": "реконструкција", "discriminator": "ConstructionTypeValue" }
+]

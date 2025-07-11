@@ -1,0 +1,6 @@
+[
+  { "value": "гас", "discriminator": "HeatingTypeValue" },
+  { "value": "електрична енергија", "discriminator": "HeatingTypeValue" },
+  { "value": "топловодни систем", "discriminator": "HeatingTypeValue" },
+  { "value": "чврсто гориво", "discriminator": "HeatingTypeValue" }
+]

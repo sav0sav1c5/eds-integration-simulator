@@ -1,0 +1,5 @@
+[
+  { "code": "МБ", "value": "монофазни", "discriminator": "MeterType" },
+  { "code": "МГ", "value": "мерна група", "discriminator": "MeterType" },
+  { "code": "ТБ", "value": "трофазни", "discriminator": "MeterType" }
+]
